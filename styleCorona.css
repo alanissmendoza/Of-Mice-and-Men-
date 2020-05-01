@@ -1,0 +1,112 @@
+.colWidth12-12 {
+    width:100%;
+}
+.colWidth11-12 {
+    width:91.7%;
+}
+.colWidth10-12 {
+    width:83.3%;
+}
+.colWidth9-12 {
+    width:75%;
+}
+.colWidth8-12 {
+    width:66.6%;
+}
+.colWidth7-12 {
+    width:58.3%;
+}
+.colWidth6-12 {
+    width:50%;
+}
+.colWidth5-12 {
+    width:41.6%;
+}
+.colWidth4-12 {
+    width:33.3%;
+}
+.colWidth3-12 {
+    width:25%;
+}
+.colWidth2-12 {
+    width:16.6%;
+}
+.colWidth1-12 {
+    width:8.3%;
+}
+    .hi50 {height:50px;}
+    .hi300 {height:300px;}
+    .hi500 {height:500px;}
+    .hi700 {height:700px;}
+    .hicustom {height: 466px;
+    width:300px;
+    height:40%;
+    width:40%}
+    .hicustom2 {height: 252px;
+    width:336px;
+    height:25%;
+    width:65%;}
+    .hicustom3 {height: 444px;
+    width:300px;
+    height:40%;
+    width:40%}
+    .hicustom4 {height: 743px;
+    width:1000px
+    height:100%;
+    width:100%}
+
+    .leftCol{float:left;}
+    .rightCol{float:right;}
+    .flexCentered {
+               display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content: space-around;
+                align-items: center;
+                align-content: center;
+            }
+
+        #navbar {
+            
+            background-color:rgb(51, 51, 51);
+        }
+        #navbar a {
+                color:white;
+                text-decoration:none;
+                font-size:18px;
+                font-family:'Shadows Into Light', cursive;
+                font-family:'Spicy Rice', cursive;
+            }
+body {background-color: rgba(159, 159, 159, 0.79);}
+
+.foto-personaje {
+    width:98%;
+    height:90%;
+    justify-content:center;
+}
+.foto-personaje2 {
+    width:87%;
+    height:52%;
+    justify-content:center;
+}
+.foto-personaje3 {
+    width:98%;
+    height:90%;
+    justify-content:center;
+}
+.foto-personaje4 {
+    width:100%;
+    height:100%;
+    justify-content:center;
+}
+    
+    
+.newspaper{
+    column-count: 4;
+    padding:10px;
+    width:100%;
+    text-decoration:none;
+    font-size:18px;
+    font-family:'Shadows Into Light', cursive;
+    font-family:'Spicy Rice', cursive;
+}
